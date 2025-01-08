@@ -1,1 +1,1 @@
-file changes in new feature branch
+a new function is added in the feature branch
